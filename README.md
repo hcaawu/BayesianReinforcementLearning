@@ -1,4 +1,4 @@
-# Accelerated RRT* By Local Directional Visibility
+# Bayesian Reinforcement Learning under Uncertain Transition Dynamics
 Bayesian reinforcement learning maintain a hidden belief state over the uncertainty of system transition dynamics. It provides the opportunity for the agent to act optimally under the dilemma of exploration and exploitation.
 
 Solving the Bayesian reinforcement learning problem to get the offline policy in the belief space is computationally intractable. The contributions of this project are the following:
